@@ -1,2 +1,2 @@
 # Cpp-Algorithm
-C++ Zheng LI Courses
+C++ Zheng Li Courses
